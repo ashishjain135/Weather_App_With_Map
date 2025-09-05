@@ -14,7 +14,7 @@ It shows live location on the map with a marker and popup, along with a weather 
 ---
 
 ## 📸 Screenshot
-screenshot.png
+./screenshot.png
 
 ---
 
