@@ -49,7 +49,7 @@ Weather-Map-App/
 
 
 
-## 🎯 How to Run  🌦️** Weather + Map App – Interview Q&A**
+##  🌦️** Weather + Map App – Interview Q&A**
 1. Why did you use Leaflet.js instead of Google Maps API?
  Leaflet is open-source, lightweight (~39 KB), free (no API key), and integrates well with OpenStreetMap.
 Google Maps is powerful but requires billing setup & API key. For small projects, Leaflet is faster and simpler.
