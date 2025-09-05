@@ -39,7 +39,7 @@ Weather-Map-App/
 ## 🎯 How to Run  
 1. Clone this repository:  
    ```bash
-   git clone https://https://github.com/ashishjain135/Weather_App_With_Map
+   git clone https://github.com/ashishjain135/Weather_App_With_Map
 2.Open index.html in browser
 
 📌 Future Scope
@@ -49,7 +49,7 @@ Weather-Map-App/
 
 
 
-🌦️** Weather + Map App – Interview Q&A**
+##🌦️** Weather + Map App – Interview Q&A**
 1. Why did you use Leaflet.js instead of Google Maps API?
  Leaflet is open-source, lightweight (~39 KB), free (no API key), and integrates well with OpenStreetMap.
 Google Maps is powerful but requires billing setup & API key. For small projects, Leaflet is faster and simpler.
