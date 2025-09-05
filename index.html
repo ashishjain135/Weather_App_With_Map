@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Weather + Map App</title>
+  <link rel="stylesheet" href="style.css">
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css"/>
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+</head>
+<body>
+  <header>
+     <h3><i class="fa-solid fa-cloud-sun"></i> Weather App | Live forecast at your fingertips</h3>
+  </header>
+  <div class="container">
+    <div class="weather">
+            <div class="temp">20</div>
+              <div class="time_location">
+                  <p>Location</p>
+                  <span>Random time & date</span>
+              </div>
+              <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+              <div class="weather_condition">
+                  <p><img src"" alt=""></p>
+                  <span>condition</span>
+              </div>
+            </div>
+        <form>
+          <input type="text" class="searchField" placeholder="Enter city...">
+          <button type="submit">Search</button>
+        </form>
+    <!-- Map div -->
+    <div id="map"></div>
+  </div>
+
+  <!-- Scripts -->
+  <script src="map.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
